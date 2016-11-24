@@ -25,7 +25,7 @@ SECRET_KEY = '-_3dnsjixrdy!l1o+*n#73$ue0)xiei=q3rx35o65m=8a0gn8('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
